@@ -10,8 +10,9 @@ This repository holds a single script that implements and trains a Transformer m
 - PyTorch 1.7+
 - NumPy
 - tqdm
-- sacremoses
-- sentencepiece
+- datasets
+- evaluate
+- somajo
 
 ### Usage
 
