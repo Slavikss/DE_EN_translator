@@ -1,7 +1,7 @@
-## German-to-English Translation with Transformer
+![image](https://github.com/Slavikss/DE_EN_translator/assets/62743692/ea60ad7f-be7d-4aa9-9bad-df475a4046fc)## German-to-English Translation with Transformer
 
 This repository holds a single script that implements and trains a Transformer model for translating German to English.
-![Architecture](https://images4.programmersought.com/854/9d/9d622c5b8a63ad070379135c6ce07666.png)
+
 ### Requirements
 
 - Python 3.6+
