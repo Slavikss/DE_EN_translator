@@ -1,5 +1,3 @@
-# README.md
-
 ## German-to-English Translation with Transformer
 
 This repository holds a single script that implements and trains a Transformer model for translating German to English.
